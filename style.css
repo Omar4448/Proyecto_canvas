@@ -1,0 +1,50 @@
+canvas {
+    background-color: rgb(255, 255, 255);
+    border-style: ridge;
+    border-color: rgb(53, 95, 247);
+}
+
+body {
+    text-align: center;
+    background-image: url(Fondo.jpg);
+    background-size: cover;
+}
+
+button {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-width: 5px;
+    border-color: rgb(47, 255, 0);
+
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+input {
+    width: 132.25px;
+    height: 83px;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    font-size: 30px;
+
+
+
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+select{
+    height: 83px;
+    font-size: 30px;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+}
+
